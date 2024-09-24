@@ -17,15 +17,6 @@ typedef struct s_list {
     struct s_list *next;
 } t_list;
 
-// Additional structures
-// ==================================================================
-
-typedef struct {
-    char *st;
-    char *end;
-    size_t b_s;
-} t_read_line_data;
-
 // Additional functions
 // ==================================================================
 

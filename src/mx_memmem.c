@@ -9,6 +9,8 @@
 
 void *mx_memmem(const void *big, size_t big_len,
                 const void *little, size_t little_len) {
+    mx_printint((int)little_len);
+    mx_printchar('\n');
     if (little_len == 0) return (void *)big;
     if (big_len < little_len) return NULL;
     const unsigned char *b = (const unsigned char *)big;
