@@ -73,5 +73,12 @@ Function| Task                                                                  
 |```mx_list_size```| Function that calculates the number of nodes in the linked list.                                                                               |100|
 |```mx_sort_list```| Function that sorts the list’s contents in ascending order. Function ``` cmp ``` returns true if ```a ``` > ``` b``` and false in other cases. |100|
 
-## Total mark is [yet unknown]
+## Assessments
+100
+
+100
+
+100
+
+## Total mark is 93
 ### Date of submition September 2024
